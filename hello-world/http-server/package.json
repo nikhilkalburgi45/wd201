@@ -7,5 +7,9 @@
   },
   "author": "nikhil kalburgi",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "minimist": "^1.2.8"
+  }
 }
